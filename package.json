@@ -1,5 +1,5 @@
 {
-  "name": "jl-react-forms",
+  "name": "jl-react-forms-fix",
   "version": "1.1.0",
   "description": "A complete form builder for react.",
   "main": "dist/index.js",
